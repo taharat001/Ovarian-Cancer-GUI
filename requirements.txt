@@ -1,0 +1,7 @@
+gradio
+pandas
+joblib
+shap
+xgboost
+openpyxl  # For reading Excel files
+numpy==1.25.2  # Specify the NumPy version
