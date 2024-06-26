@@ -10,3 +10,5 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+Check out the GUI functionality at https://huggingface.co/spaces/s42255/ovarian_cancer
